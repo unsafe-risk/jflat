@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	jflat "go-json-flatten"
+	"github.com/unsafe-risk/jflat"
 )
 
 type A struct {
